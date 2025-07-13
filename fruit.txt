@@ -5,3 +5,7 @@ orange
 watermmelon 
 pineapple
 Papaya
+lemon
+orange
+watermmelon 
+try
