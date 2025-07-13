@@ -1,5 +1,7 @@
 Apple
 Mango
+Pear
 orange
 watermmelon 
-try
+pineapple
+Papaya
